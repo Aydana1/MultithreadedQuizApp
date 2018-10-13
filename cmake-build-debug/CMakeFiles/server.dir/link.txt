@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/server.dir/echoserver.c.o CMakeFiles/server.dir/passivesock.c.o CMakeFiles/server.dir/connectsock.c.o  -o server 

@@ -1,0 +1,20 @@
+1 What is a system call?
+A. A call to the system
+B. A function call that invokes the operating system to take some action
+C. A call to the operating system.
+
+B
+
+2 Why is mutex used?
+A. To activate methods
+B. To protect critical sections
+C. To preserve concurrency
+
+C
+
+3 What is a dynamic memory allocation?
+A. Creating pointers in a stack
+B. Creating pointers in a heap
+C. Allocation of memory permanently
+
+A
